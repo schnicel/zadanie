@@ -1,2 +1,5 @@
 # zadanie
-navrh implementacie kniznice pomocou obojstranne zlinkovaneho zoznamu
+Jednoducha implementacia kniznice pomocou dvoch samostatne obojstranne zlinkovanych zoznamov pre data typu text a integer.
+
+## spustenie
+php library.php
